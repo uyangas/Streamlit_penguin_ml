@@ -9,6 +9,7 @@ import seaborn as sns
 
 
 st.title("Penguin Classifier: A Machine Learning App")
+st.subheader("An app to test the deployment")
 st.write("This app uses 6 inputs to predict the species of penguin using \
          a model built on the Palmer Penguins dataset. Use the form below to get started.")
 
